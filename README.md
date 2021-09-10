@@ -8,6 +8,7 @@
   <a href="https://github.com/skuramatata">
   <img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=skuramatata&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skuramatata&layout=compact&langs_count=8"/>
+</div>
 
 
   #### Languages and Tools
@@ -16,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
 ![React](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-%2320232A?logoColor=61DAFB&style=flat&logo=vue)
 ![Sass](https://img.shields.io/badge/-Sass-%23CB6498?style=flat&logo=sass&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)\
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
