@@ -1,8 +1,8 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" alt="Hi" width="42" /> 𝒉𝒆𝒍𝒍𝒐 𝒕𝒉𝒆𝒓𝒆, 𝒇𝒆𝒍𝒍𝒐𝒘 <𝒄𝒐𝒅𝒆𝒓𝒔 />!</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" alt="Hi" width="42" /> Hakuna matata!</h2>
 
-> 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵.
+> 
 
-<p style="font-size: 12px">hi,I am a front-end developer from China. I love to explore and learn about new things...</p>
+<!-- <p style="font-size: 12px">hi,I am a front-end developer from China. I love to explore and learn about new things...</p> -->
 
 <div style="display: inline_block">
   <a href="https://github.com/skuramatata">
