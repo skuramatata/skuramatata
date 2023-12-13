@@ -8,7 +8,6 @@
   <a href="https://github.com/skuramatata">
 </div>
 
-<code><img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api?username=skuramatata&show_icons=true&include_all_commits=true&count_private=true"/> 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skuramatata&layout=compact&langs_count=8"/></code></br></br></br></br></br></br></br></br></br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
